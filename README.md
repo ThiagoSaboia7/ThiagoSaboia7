@@ -2,8 +2,7 @@
 
 - 👨‍🎓 Cursando Engenharia de Software
 - 📚 Estudando C, Javascript
-- 📫 How to reach me: 43 9 9979-5488 (Telefone) || 43 9 9929-9062 (WhatsApp)
-- 👉👦 Pronouns: Ele/Dele
+- 📫 How to reach me: 43 9 9979-5488 (Telefone) || 43 9 9929-9062 (WhatsApp) || Email: thiagosaboia777@icloud.com
 
  </div>
 <div style="display: inline_block"><br>
