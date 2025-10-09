@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, prazer eu sou ThiagoSaboia7
 
-<!--
-**ThiagoSaboia7/ThiagoSaboia7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Cursando Engenharia de Software
+- 📚 Estudando C, Javascript
+- 📫 How to reach me: 43 9 9979-5488 (Telefone) || 43 9 9929-9062 (WhatsApp)
+- 👉👦 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
+ </div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Thiago-C" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> - 
+<img align="center" alt="Thiago-C" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+<a href="https://www.linkedin.com/in/thiago-saboia-25985636b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+
+  
+</div>
+
