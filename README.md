@@ -16,8 +16,6 @@
 
 <div>
 <a href="https://www.linkedin.com/in/thiagosaboia"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
- <a href="mailto:thiagosaboia777@icloud.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Email" width="30" height="30" />
-</a>
+ 
 </div>
 
