@@ -1,7 +1,7 @@
 ## Olá, prazer eu sou ThiagoSaboia7
 
 - 👨‍🎓 Cursando Engenharia de Software
-- 📚 Estudando C, Javascript, Css, Html
+- 📚 Estudando C, Javascript, Css, Html, Java
 - 📫 How to reach me: 43 9 9979-5488 (Telefone) || 43 9 9929-9062 (WhatsApp) || Email: thiagosaboia777@icloud.com
 
  </div>
@@ -9,7 +9,8 @@
 <img align="center" alt="Thiago-C" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" / >&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img align="center" alt="Thiago-C" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <img align="center" alt="Thiago-C" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
-<img align="center" alt="Thiago-C" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
+<img align="center" alt="Thiago-C" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;&nbsp;&nbsp;
+<img align="center" alt="Thiago-C" height="70" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
 ##
