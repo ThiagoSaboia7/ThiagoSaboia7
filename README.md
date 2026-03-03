@@ -17,6 +17,10 @@ Eu sou **Estudante de Engenharia de Software**, **3° Semestre**, **Londrina**, 
    <a href="https://www.linkedin.com/in/thiagosaboia">
     <img src="https://img.shields.io/badge/Linkedin-ThiagoSaboia-007ec6?style=for-the-badge&logo=linkedin" />
   </a>
+
+  <a href="mailto:thiagosaboia777@icloud.com">
+  <img src="https://img.shields.io/badge/Apple_Mail-ThiagoSaboia-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
 </p>
 
 
