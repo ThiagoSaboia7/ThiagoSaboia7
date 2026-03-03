@@ -48,8 +48,8 @@ Eu sou **Estudante de Engenharia de Software**, **3° Semestre**, **Londrina**, 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoSaboia7&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSaboia7&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoSaboia7&show_icons=true&theme=tokyonight&count_private=true&disable_animations=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSaboia7&layout=compact&theme=tokyonight&disable_animations=false" />
 </p>
 
 ---
